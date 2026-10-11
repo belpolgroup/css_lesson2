@@ -1,0 +1,13 @@
+body {
+  font-family: Verdana;
+  color: #06389e;
+  background-color: #e6e6e6;
+  margin-top: 0;
+}
+
+h2,
+h3 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #494d56;
+}
