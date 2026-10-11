@@ -23,3 +23,9 @@ h3 {
 #slogan {
   padding: 5px 0 5px 0;
 }
+
+.foot {
+  color: white;
+  font-size: 0.6em;
+  text-align: center;
+}
