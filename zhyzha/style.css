@@ -23,6 +23,14 @@ ul {
   line-height: 1.5em;
 }
 
+ol {
+  font-size: 0.8em;
+}
+
+ol li a {
+  color: gray;
+}
+
 #shapka,
 #slogan {
   font-family: Arial;
@@ -46,4 +54,10 @@ ul {
   text-align: justify;
   border-top: 2px solid gray;
   border-bottom: 2px solid gray;
+}
+
+.content a {
+  text-decoration: none;
+  color: #494d56;
+  font-weight: bolder;
 }
